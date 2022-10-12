@@ -4,7 +4,8 @@ I am currently a Software Engineering Student based in Charlotte, NC.
 
 ### Find me around the web 🌐
 Sharing updates on:
-<br> [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+<br> [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandy-a-moore/)
+
 
 
 ### Programming languages 
