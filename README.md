@@ -1,8 +1,8 @@
 ### Hi! I am Brandy Moore 🤗👩🏽‍💻
------------------------------
+<hr />
 
 I am a Software Developer based in Charlotte, NC. 
------------------------------
+
 
 ### Find me around the web 🌐
 Sharing updates on:
